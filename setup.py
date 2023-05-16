@@ -11,7 +11,7 @@ setuptools.setup(
     description="A simple priority queue library and GUI application",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/simple-priority-queue",
+    url="https://github.com/abenaventefortes/simple_priority_queue.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
