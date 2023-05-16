@@ -1,0 +1,4 @@
+[console_scripts]
+simple_priority_queue = simple_priority_queue.__main__:main
+simple_priority_queue_cli = simple_priority_queue.cli:main_cli
+simple_priority_queue_gui = simple_priority_queue.gui:main_gui
